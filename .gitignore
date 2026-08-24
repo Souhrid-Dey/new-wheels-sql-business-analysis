@@ -1,0 +1,28 @@
+# Environment & Virtual Environments
+venv/
+env/
+ENV/
+.env
+
+# Python & Jupyter cache
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Operating System & IDE temp files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.bak
+
+# Internal Quarantined Institute & Draft Directories
+.institute/
+.draft/
+.scratch/
+
+# Temporary and log files
+*.log
+*.tmp
